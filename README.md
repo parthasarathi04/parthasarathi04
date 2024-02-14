@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthasarathi04
 - 👀 I’m interested in core JAVA, Spring, Spring Boot, Hibernate, Microservice, MEAN, MERN etc.
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently working on Spring Boot Microservices
 - 💞️ I’m looking to collaborate on Angular, React, Node, Spring Boot, Java
 - 📫 How to reach me ...
 
